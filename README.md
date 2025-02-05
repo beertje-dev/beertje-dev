@@ -23,7 +23,7 @@
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beertje-dev&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=beertje-dev&theme=radical)  
+
 
 ---
 
