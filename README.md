@@ -31,7 +31,7 @@
 Wil je samenwerken of gewoon hallo zeggen?  
 💬 **Discord:** @beertje_  
 📸 **Instagram:** [instagram.com/gib0_b](https://www.instagram.com/gib0_b/)  
-📨 **Email:** [gino@mg-development](mailto:gino@mg-development)  
+📨 **Email:** [gino@mg-development.nl](mailto:gino@mg-development.nl)  
 
 ---
 
