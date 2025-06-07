@@ -5,7 +5,7 @@
 - 💻 Passie voor programmeren en technologie
 - 🛠️ Ervaring met **C#, HTML, CSS, JavaScript, Node.js** en een beetje **Python**
 - 🔥 Momenteel bezig met **MG-Development**, een project waar ik hard aan werk!
-- 🎂 Ik ben 17 jaar oud
+- 🎂 Ik ben 18 jaar oud
 
 ---
 
@@ -31,6 +31,7 @@
 Wil je samenwerken of gewoon hallo zeggen?  
 💬 **Discord:** @beertje_  
 📸 **Instagram:** [instagram.com/gib0_b](https://www.instagram.com/gib0_b/)  
+📨 **Email:** [mailto:gino@mg-development](gino@mg-development)  
 
 ---
 
